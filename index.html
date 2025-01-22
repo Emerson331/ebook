@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transforme Sua Vida - Ebook</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #6200ea;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .cta a {
+      background-color: #6200ea;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 18px;
+    }
+    .cta a:hover {
+      background-color: #4500b5;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Transforme Sua Vida: Ebook Exclusivo</h1>
+    <p>Descubra como alcançar seus objetivos e transformar sua rotina com ações práticas.</p>
+  </header>
+  <div class="container">
+    <img src="https://via.placeholder.com/800x400" alt="Capa do Ebook" style="width: 100%; border-radius: 10px;">
+    <p>Com este ebook, você aprenderá estratégias simples e eficazes para mudar sua vida. Não perca essa oportunidade de alcançar seu potencial!</p>
+    <div class="cta">
+      <a href="https://pagamento.exemplo.com" target="_blank">Compre Agora</a>
+    </div>
+  </div>
+  <footer>
+    <p>© 2025 Transforme Sua Vida. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
